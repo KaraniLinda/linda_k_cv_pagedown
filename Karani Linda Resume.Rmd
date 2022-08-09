@@ -1,0 +1,188 @@
+---
+title: "Lijia Yu's resume"
+author: Lijia Yu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+#uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> karaniinda@gmail.com
+- <i class="fa fa-github"></i> [github.com/KaraniLinda](https://github.com/KaraniLinda)
+- <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/linda-karani-369b3112b/)
+- <i class="fa fa-phone"></i> +254 708 054 713/ +41 76 764 57 85
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Database/Server : MySQL, Postgres
+
+- Programming language : Python(NumPy, Pandas, Scikit-learn), R programming(Tidyverse) , SQL.
+
+- Data visualization/Reporting : R Markdown, Quarto, Power BI, Tableau , Google Data Studio, Excel
+
+- Git and Version Control
+
+
+Languages {#languages}
+--------------------------------------------------------------------------------
+
+English : Native
+
+French : Intermediate
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+LINDA KARANI {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+I am a data scientist with 4+ years of building data
+intensive tools, data processing, data analysis and visualization, predictive
+modeling and converting raw data into actionable insights through 
+interactive and analytical dashboards. Proficient in supervised and unsupervised
+machine learning, advanced statistical analysis as well as scripting languages
+including R and Python. I also excel at creating value for stakeholders and 
+using data analytics to convey information in a way that is clear and 
+beneficial for end users. I am passionate about using data to identify trends 
+and drive development and enjoy learning and taking up new challenges.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Strathmore University
+
+Masters of Science in Data Science and Analyics
+
+Nairobi, Kenya
+
+2021 - 2023
+
+Relevant units: Advanced machine learning concepts, Advanced statistical 
+analysis, Data visualization and communication
+
+
+### Strathmore University
+
+Bachelor of Business Science in Financial Economics
+
+Nairobi, Kenya
+
+2014 - 2018
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior associate- Data analysis and business modelling
+
+Sanergy
+
+Nairobi, Kenya
+
+
+2021 - Current
+
+
+- Was part of a team that led data management and analysis for a multinational
+corporation to identify areas in the citywith the greatest potential for 
+introduction of non-sewered sanitation products to allow for future upscale 
+- Developed several robust quantitative and qualitative data collection tools
+for citywide inclusive sanitation planning to determine market share and 
+predict an appropriate mix of sanitation products based on key indicators
+and metrics.
+- Analyzed data collected by the Cost and Climate in Urban Sanitation (CACTUS)
+project led by the University of Leeds and supported by the Bill and Melinda 
+Gates Foundation and used the findings to create a set of improved data 
+collection tools and manuals to facilitate widespread contribution to a
+database of benchmark cost estimates to inform sanitation investment decisions.
+- Effectively communicating analysis and project results to senior leadership
+and external stakeholders
+- Completion of diverse advisory projects with a high standard of quality and 
+production of comprehensive analytical reports
+- Conducted data analysis for a UNICEF implemented project to inform progress
+towards safely managed sanitation
+- Proactive stakeholder management and advisory services
+
+
+### Finance/Data analyst
+
+Sanergy.
+
+Nairobi, Kenya
+
+2019 - 2021
+
+
+- Identified key organizational metrics, cleaned and analyzed data from all 
+departments and presented results on Tableau improving accuracy of results 
+by 35%. 
+- Aggregated data across all departments that was previously in multiple
+different sources to create an interactive organization wide dashboard based on
+key KPIs that led to increased efficiency in operations and improved decision
+making and that resulted in a 30% reduction in redundancy.
+- Using data analytics to identify business needs and requirements and deliver
+data-driven recommendations and reports to executives and stakeholders. 
+- Supported teams to understand, monitor and control key business metrics to 
+achieve success and base decisions on data.
+- Prepared financial statements and other financial reports
+and reported performance to senior management and the
+finance board
+
+
+### Financial controlling assistant
+
+Amadeus East Africa.
+
+Nairobi, Kenya
+
+2018 - 2019
+
+- Modeled and forecasted the profitability of more than 300
+travel agencies using Microsoft Excel and VBA. 
+- Created and tracked business cases for all travel agencies on
+a regular basis that resulted in 40% increased efficiency.
+- Updated the organizations incentives database on a regular
+basis. 
+- Preparation of the company's periodic budgets
+
+
+
+Projects {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Reproducing the sanitation estimates for Sustainable Development Goal(SDG) 6 in R : Statistical modeling
+
+ETH
+
+Zurich, Switzerland
+
+2022
+
+
