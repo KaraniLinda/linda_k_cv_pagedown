@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Linda Karani CV"
+author: Linda Karani
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -18,10 +18,10 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> karaniinda@gmail.com
+- <i class="fa fa-envelope"></i> karanilinda@gmail.com
 - <i class="fa fa-github"></i> [github.com/KaraniLinda](https://github.com/KaraniLinda)
 - <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/linda-karani-369b3112b/)
-- <i class="fa fa-phone"></i> +254 708 054 713/ +41 76 764 57 85
+- <i class="fa fa-phone"></i> +254 708054713/ +41 772127040
 
 
 
