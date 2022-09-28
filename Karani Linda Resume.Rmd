@@ -70,7 +70,7 @@ machine learning, advanced statistical analysis as well as scripting languages
 including R and Python. I also excel at creating value for stakeholders and 
 using data analytics to convey information in a way that is clear and 
 beneficial for end users. I am passionate about using data to identify trends 
-and drive development and enjoy learning and taking up new challenges.
+and drive decision making and enjoy learning and taking up new challenges.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -177,9 +177,9 @@ basis.
 Projects {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Reproducing the sanitation estimates for Sustainable Development Goal(SDG) 6 in R : Statistical modeling
+### Importance of reproducibility in advancing Sustainable Development Goal(SDG) 6 in R : A comparison of statistical models
 
-ETH
+ETH Zurich
 
 Zurich, Switzerland
 
