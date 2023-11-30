@@ -62,16 +62,9 @@ LINDA KARANI {#title}
 
 ### Data Scientist
 
-I am a data scientist with 4+ years of building data
-intensive tools, data processing, data analysis and visualization, predictive
-modeling and converting raw data into actionable insights through 
-interactive and analytical dashboards. Proficient in supervised and unsupervised
-machine learning, advanced statistical analysis as well as scripting languages
-including R and Python. I also excel at creating value for stakeholders and 
-using data analytics to convey information in a way that is clear and 
-beneficial for end users. I am passionate about using data to identify trends 
-and drive decision making and enjoy learning and taking up new challenges.
+I am a seasoned data scientist with over 4 years of experience specializing in the development of data-intensive tools, comprehensive data processing, intricate data analysis and visualization, predictive modeling, and the transformation of raw data into actionable insights via interactive and analytical dashboards. My proficiency extends to both supervised and unsupervised machine learning, advanced statistical analysis, as well as satellite imagery and geospatial data analysis. I am adept in scripting languages such as R and Python.
 
+My strength lies not only in technical skills but also in creating tangible value for stakeholders. I excel at leveraging data analytics to convey information in a clear and impactful manner, ensuring it is beneficial for end users. My passion lies in using data to uncover valuable insights, contribute to societal good, and drive informed decision-making. I thrive on learning and actively seek out new challenges to further enhance my expertise.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -100,6 +93,22 @@ Nairobi, Kenya
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Data scientist
+
+World data lab
+
+Nairobi, Kenya
+
+November, 2022- Current
+
+- Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
+- Utilized satellite data to map aggregate spending at the grid/hexagon level (Uber H3 - Res 9), demonstrating proficiency in spatial analysis and data visualization.
+- Applied advanced machine learning algorithms at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level.
+- Conducting rigorous data quality assurance checks, ensuring the continuous enhancement of models with the latest and highest-quality data.
+- Demonstrated expertise in the in-depth analysis of household and census survey data.
+- Produced data-driven, high-quality insights for clients, emphasizing a commitment to delivering impactful and actionable information.
+
+
 ### Senior associate- Data analysis and business modelling
 
 Sanergy
@@ -107,7 +116,7 @@ Sanergy
 Nairobi, Kenya
 
 
-2021 - Current
+2021 - November, 2022
 
 
 - Was part of a team that led data management and analysis for a multinational
@@ -124,7 +133,7 @@ collection tools and manuals to facilitate widespread contribution to a
 database of benchmark cost estimates to inform sanitation investment decisions.
 - Effectively communicating analysis and project results to senior leadership
 and external stakeholders
-- Completion of diverse advisory projects with a high standard of quality and 
+- Completion of diverse advisory projects with a high standard of quality and
 production of comprehensive analytical reports
 - Conducted data analysis for a UNICEF implemented project to inform progress
 towards safely managed sanitation
@@ -154,24 +163,6 @@ achieve success and base decisions on data.
 - Prepared financial statements and other financial reports
 and reported performance to senior management and the
 finance board
-
-
-### Financial controlling assistant
-
-Amadeus East Africa.
-
-Nairobi, Kenya
-
-2018 - 2019
-
-- Modeled and forecasted the profitability of more than 300
-travel agencies using Microsoft Excel and VBA. 
-- Created and tracked business cases for all travel agencies on
-a regular basis that resulted in 40% increased efficiency.
-- Updated the organizations incentives database on a regular
-basis. 
-- Preparation of the company's periodic budgets
-
 
 
 Projects {data-icon=file}
