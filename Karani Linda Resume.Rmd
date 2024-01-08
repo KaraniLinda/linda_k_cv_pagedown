@@ -102,8 +102,9 @@ Nairobi, Kenya
 November, 2022- Current
 
 - Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
-- Utilized satellite data to map aggregate spending at the grid/hexagon level (Uber H3 - Res 9), demonstrating proficiency in spatial analysis and data visualization.
-- Applied advanced machine learning algorithms at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level.
+- Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geosspatial analysis 
+- Applied advanced machine learning algorithms such as Random Forest and linear regression models at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level.
+- Designed and led hackathons to impart knowledge to students in collaboration with top universities in Kenya
 - Conducting rigorous data quality assurance checks, ensuring the continuous enhancement of models with the latest and highest-quality data.
 - Demonstrated expertise in the in-depth analysis of household and census survey data.
 - Produced data-driven, high-quality insights for clients, emphasizing a commitment to delivering impactful and actionable information.
