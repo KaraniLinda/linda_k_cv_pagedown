@@ -64,22 +64,29 @@ LINDA KARANI {#title}
 
 I am a seasoned data scientist with over 4 years of experience specializing in the development of data-intensive tools, comprehensive data processing, intricate data analysis and visualization, predictive modeling, and the transformation of raw data into actionable insights via interactive and analytical dashboards. My proficiency extends to both supervised and unsupervised machine learning, advanced statistical analysis, as well as satellite imagery and geospatial data analysis. I am adept in scripting languages such as R and Python.
 
-My strength lies not only in technical skills but also in creating tangible value for stakeholders. I excel at leveraging data analytics to convey information in a clear and impactful manner, ensuring it is beneficial for end users. My passion lies in using data to uncover valuable insights, contribute to societal good, and drive informed decision-making. I thrive on learning and actively seek out new challenges to further enhance my expertise.
+My strength lies not only in technical skills but also in creating tangible value for stakeholders. I excel at leveraging data science and analytics to convey information in a clear and impactful manner, ensuring it is beneficial for end users. My passion lies in using data to uncover valuable insights, contribute to societal good, and drive informed decision-making. I thrive on learning and actively seek out new challenges to further enhance my expertise.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Strathmore University
 
-Masters of Science in Data Science and Analyics
+Masters of Science in Data Science and Analytics
 
 Nairobi, Kenya
 
-2021 - 2023
+2021 - 2024
 
 Relevant units: Advanced machine learning concepts, Advanced statistical 
 analysis, Data visualization and communication
 
+### ETH Zurich
+
+Dissertation: Importance of reproducibility in advancing Sustainable Development Goal(SDG) 6 in R : A comparison of statistical models
+
+Zurich, Switzerland
+
+2022
 
 ### Strathmore University
 
@@ -99,10 +106,10 @@ World data lab
 
 Nairobi, Kenya
 
-November, 2022- Current
+November, 2022 - February, 2024
 
 - Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
-- Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geosspatial analysis 
+- Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geospatial analysis 
 - Applied advanced machine learning algorithms such as Random Forest and linear regression models at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level.
 - Designed and led hackathons to impart knowledge to students in collaboration with top universities in Kenya
 - Conducting rigorous data quality assurance checks, ensuring the continuous enhancement of models with the latest and highest-quality data.
@@ -166,15 +173,6 @@ and reported performance to senior management and the
 finance board
 
 
-Projects {data-icon=file}
---------------------------------------------------------------------------------
 
-### Importance of reproducibility in advancing Sustainable Development Goal(SDG) 6 in R : A comparison of statistical models
-
-ETH Zurich
-
-Zurich, Switzerland
-
-2022
 
 
