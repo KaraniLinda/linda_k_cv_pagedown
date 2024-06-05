@@ -1,0 +1,213 @@
+---
+title: "Davis Fundi CV"
+author: Linda Karani
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+#uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> davisireri431@gmail.com
+- <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/davis-fundi-ireri-58b771132/)
+- <i class="fa fa-phone"></i> +254712730933/+60-0197290933
+
+
+<div style="page-break-after: always;"></div>
+
+Publications {#publications}
+--------------------------------------------------------------------------------
+
+**Closing Nutrient Cycles: Up-Scaling of Black Soldier Fly Treatment in Nairobi**
+Ireri Davis, Gold Moritz, Egan Tim, Zurbrügg Chris, Mathys Alexander, Chege Daniel, Mitugo Melody, Kidula Jessy.
+[Link](https://www.research-collection.ethz.ch/handle/20.500.11850/376578)
+  
+**Farmer Knowledge of Bacterial Wilt and Root-Knot Nematodes in High Tunnel Tomato Production in the Tropics (2018)**
+Davis Fundi Ireri, Lucy Kananu Murungi, Daisy Chepkoech Ngeno & Jesca Mbaka.
+[Link](https://www.tandfonline.com/doi/full/10.1080/19315260.2018.149960)
+  
+**Soil Chemical Properties Influence Abundance of Nematode Trophic Groups and Ralstonia Solanacearum in High Tunnel Tomato Production (2019)**
+Daisy Chepkoech Ngeno, Lucy Kananu Murungi, Davis Ireri Fundi, Vitalis Wekesa, Solveigh Haukeland, Jesca Mbaka.
+[Link](https://aasopenresearch.org/articles/2-3/v1)
+
+
+Main
+================================================================================
+
+
+DAVIS FUNDI IRERI {#title}
+--------------------------------------------------------------------------------
+
+### Research and Development manager - Insect feed
+
+A versatile professional with extensive experience in research and development management, market
+development, sourcing, and nutrition, I am confident in my ability to bring exceptional value to any team. With a proven track record of driving innovation, expanding market presence, and ensuring the achievement of optimal product and process quality, I am always eager to contribute my skills and expertise to further advance any company's objectives.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Jomo Kenyatta University of Agriculture & Technology, JKUAT, Kenya
+
+Master of Science, Plant Health Science & Management
+
+Nairobi, Kenya
+
+2015 - 2018
+
+### Jomo Kenyatta University of Agriculture & Technology, JKUAT, Kenya
+
+Bachelor of Science, Horticulture
+
+Nairobi, Kenya
+
+2011 - 2014
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Research & Development Manager, Nutritionist, & Sourcing Lead
+
+Nutrition Technologies
+
+Malaysia, Singapore
+
+March, 2023 - Present
+
+A forward-thinking Research & Development Manager spearheading innovative projects in the fields
+of bioconversion, nutrition & Sourcing at Nutrition Technologies Sdn Bhd. I lead a dynamic team of
+scientists dedicated to creating cutting-edge solutions for sustainable animal feed ingredients
+production, contributing specialized knowledge in animal nutrition to develop innovative, sustainable,
+and high-quality insect meal, oil, and biofertilizers, and committed to ensuring the seamless
+acquisition of high-quality raw materials for our innovative insect-based technology. My responsibilities include:
+
+- Communication with upper management and department heads to understand the business
+needs and priorities to best shape the R&D plan accordingly and provide the relevant R&D-related
+conclusions to CEOs and relevant HODs frequently to best shape company strategy.
+- Directing and overseeing all phases of R&D initiatives aimed at enhancing our insect-based
+animal feed ingredients utilizing agricultural processing waste.
+- Leading cross-functional teams to ideate, develop, and test novel BSFL feed formulations,
+ensuring compliance with industry regulations and quality standards.
+- Collaborating with R&D teams to assess and optimize agro-waste ingredients for BSFL feed
+formulation with maximum nutritional benefits.
+- Advising on nutritional requirements and contributing to the development of tailored feeding
+programs for Black soldier fly larvae.
+- Collaborating with external partners, academia, and industry experts to drive innovation and
+foster strategic alliances.
+- Developing and executing sourcing strategies aligned with company objectives, emphasizing
+sustainability, quality, and cost-efficiency.
+- Collaborating closely with R&D and production teams to forecast material requirements and
+mitigate supply chain risks.
+- Representing the company at industry events, conferences, stakeholder discussions, etc.
+
+
+### Research & Development Manager - Bioconversion
+
+Nutrition Technologies
+
+Malaysia, Singapore
+
+May, 2021 - Feb, 2023
+
+
+- Developed research programs, incorporating the current developments to improve existing bioconversion process and output, products and studied the potential of new processes.
+- Delivered applied research outcomes, created innovations for the company and provided evidence-based
+advice and solutions to major bioconversion problems encountered.
+- Investigated the effects that certain factors played on the efficiencies and life-history traits of the Black soldier fly larvae under industrial mass-rearing conditions.
+- Feed formulations for BSFL diets based on learnings, focused on a highly efficient output, guided by
+major constraints like raw material availability, nutrient concentrations in every raw material, and
+integration of the formulated silage with the developed engineering processes.
+- Developed SOPs for the various stages of the bioconversion process from feed preparation to larvae
+harvesting and processing.
+- Stayed informed on what is happening in the research and development field at large to make sure the
+company was up-to-date and current with the most advanced BSF R&D developments.
+- Established and maintained testing procedures for assessing raw materials, in both process and finished products.
+
+
+### Market Development Manager, East Africa
+
+
+The Sanergy Collaborative
+
+
+Nairobi, Kenya
+
+
+Dec, 2019 - April, 2021
+
+
+- Developed and executed a market penetration strategy for Evergrow organic fertilizer, a new organic
+fertilizer in the market, achieving 5x growth in sales of the same.
+- Developed a market introduction strategy for KuzaPro, a high protein insect-based animal feed
+leading to multiple trials with feed millers, agro-dealers and home users.
+- Managed special projects that opened up sales of fertilizer and animal protein.
+- Lead the planning and execution of fertilizer corporate sales.
+- Refined the products positioning for the two products, leading to more client appreciation and uptake.
+- Enhanced systems to collect marketing and sales data efficiently and effectively.
+- Lead the analysis of marketing data to generate insights that led to evidence-based targeted
+marketing initiatives.
+- Coached the sales managers and representatives to adopt agreed standard practices for
+marketing events.
+
+
+### Research & Development Specialist
+
+The Sanergy Collaborative
+
+Nairobi, Kenya
+
+Nov, 2017 - Dec, 2019
+
+
+- Developed a tool for feedstocks formulations for BSF diets/recipes leading to optimal
+production which achieved target yields per square meter of production system.
+- Developed and executed trials that led to the establishment of feeding regimes for optimal BSF
+production.
+- Came up with innovative ideas for new products including a European-certified union-certified organic fertilizer and improving existing products to meet clients' demands.
+- Led a team that was responsible for designing, performing, and overseeing scientific experiments
+relating to optimizing the conversion of waste to sustainable animal feed and fertilizer products.
+- Led a team responsible for data analysis for projects, processes, or functions to anticipate
+potential problems and opportunities and develop solutions using a comprehensive evidence-
+based decision-making approach.
+- Provided recommendations to the production team based on trials and data analysis.
+- I overtime was tasked with report writing to communicate the results of experiments in clear,
+cohesive language understandable to all audiences including the management and leadership
+teams.
+- Collaborated with the Quality, Health, Safety, and Environment departments to set quality standards
+and specs.
+
+### Dissertation Research Fellow
+
+ICIPE - International Centre of Insect Physiology and Ecology
+
+Nairobi, Kenya
+
+Oct, 2016 - Oct, 2017
+
+- Spent time working on my Masters project thesis in the behavioral and chemical ecology department,
+where I was trying to understand how root elucidates affect the interaction between the plant/crop and
+bacterial pathogens.
+- Helped Ph.D. students in various research projects within the behavioral and chemical ecology field as well as insect for feed unit.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
+
+<div style="text-align: right;">
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).<br>
+Last updated on `r Sys.Date()`.
+</div>
+
+
+
