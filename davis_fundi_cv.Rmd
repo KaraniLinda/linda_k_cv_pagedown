@@ -41,6 +41,12 @@ Daisy Chepkoech Ngeno, Lucy Kananu Murungi, Davis Ireri Fundi, Vitalis Wekesa, S
 [Link](https://aasopenresearch.org/articles/2-3/v1)
 
 
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).<br>
+Last updated on `r Sys.Date()`.
+
 Main
 ================================================================================
 
@@ -199,15 +205,8 @@ where I was trying to understand how root elucidates affect the interaction betw
 bacterial pathogens.
 - Helped Ph.D. students in various research projects within the behavioral and chemical ecology field as well as insect for feed unit.
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
 
-<div style="page-break-after: always;"></div>
 
-<div style="text-align: right;">
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).<br>
-Last updated on `r Sys.Date()`.
-</div>
 
 
 
