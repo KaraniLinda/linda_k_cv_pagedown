@@ -103,7 +103,7 @@ World data lab
 
 Nairobi, Kenya
 
-November, 2022 - February, 2024
+November, 2022 - April, 2024
 
 - Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
 - Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geospatial analysis 
