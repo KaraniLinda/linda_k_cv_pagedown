@@ -28,19 +28,19 @@ Contact Info {#contact}
 Skills summary {#skills}
 --------------------------------------------------------------------------------
 
-- Database/Server : MySQL, PostgreSQL
+**Database/Server** : MySQL, PostgreSQL
 
-- Programming language : Python, R programming
+**Programming languages** : Python, R programming
 
-- Frameworks/libraries : NumPy, Pandas, matplotlib, Scikit-learn, ggplot, tidyverse, dplyr, leaflet, caret
+**Frameworks/libraries** : NumPy, Pandas, matplotlib, Scikit-learn, ggplot, tidyverse, dplyr, leaflet, caret
 
-- Data visualization/Reporting : R Markdown, Quarto, Power BI, Tableau , Google Data Studio, Excel
+**Data visualization/Reporting** : R Markdown, Quarto, Power BI, Tableau , Google Data Studio, Excel
 
-- Geospatial packages: Uber-H3(Hexagon), ARCGIS, R(raster,tmap), Python (geopandas, rasterio, xarray)
+**Geospatial packages**: Uber-H3(Hexagon), ARCGIS, R(raster,tmap), Python (geopandas, rasterio, xarray)
 
-- Cloud computing : Google cloud platform
+**Cloud computing** : Google cloud platform
 
-- Git and Version Control
+Git and Version Control
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -170,8 +170,21 @@ and reported performance to senior management and the
 finance board
 
 
+
+
+References
+--------------------------------------------------------------------------------
+
+
+<div style="text-align: left; margin-left: 60px;">
+
+References available upon request
+</div>
+
+
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
+
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
