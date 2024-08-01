@@ -103,7 +103,7 @@ World data lab
 
 Nairobi, Kenya
 
-November, 2022 - April, 2024
+November, 2022 - Date
 
 - Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
 - Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geospatial analysis 
@@ -151,7 +151,7 @@ Sanergy.
 
 Nairobi, Kenya
 
-April, 2019 - March, 2021
+September, 2019 - March, 2021
 
 
 - Identified key organizational metrics, cleaned and analyzed data from all 
@@ -169,7 +169,18 @@ achieve success and base decisions on data.
 and reported performance to senior management and the
 finance board
 
+### Finance controller assistant
 
+Amadeus.
+
+Nairobi, Kenya
+
+April, 2018 - August, 2019
+
+- Modeling and forecasting profitability for over 300 travel agencies using Excel and VBA.
+- Created and tracked business cases for travel agencies to analyse profitability.
+- Updated the company's oracle database regularly.
+- Assist in the preparation of periodic company budgets.
 
 
 References
