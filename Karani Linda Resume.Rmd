@@ -25,7 +25,7 @@ Contact Info {#contact}
 
 
 
-Skills summary {#skills}
+Data tech stack {#skills}
 --------------------------------------------------------------------------------
 
 **Database/Server** : MySQL, PostgreSQL
@@ -59,9 +59,9 @@ LINDA KARANI {#title}
 
 ### Data Scientist
 
-I am a seasoned data scientist with over 4 years of experience specializing in the development of data-intensive tools, comprehensive data processing, intricate data analysis and visualization, predictive modeling, and the transformation of raw data into actionable insights via interactive and analytical dashboards. My proficiency extends to both supervised and unsupervised machine learning, advanced statistical analysis, as well as satellite imagery and geospatial data analysis. I am adept in scripting languages such as R and Python.
+I am a seasoned data scientist with around 4 years of experience specializing in developing data-intensive tools, comprehensive data processing, intricate data analysis, and predictive modeling. I excel in building production-ready data pipelines and transforming raw data into actionable insights via interactive and analytical dashboards. My expertise extends to both supervised and unsupervised machine learning, advanced statistical analysis, and geospatial data analysis. I am also proficient in SQL and comfortable with data modeling. I am highly adaptable and thrive in navigating ambiguous and unstructured environments, where I can build innovative solutions from scratch.
 
-My strength lies not only in technical skills but also in creating tangible value for stakeholders. I excel at leveraging data science and analytics to convey information in a clear and impactful manner, ensuring it is beneficial for end users. My passion lies in using data to uncover valuable insights, contribute to societal good, and drive informed decision-making. I thrive on learning and actively seek out new challenges to further enhance my expertise.
+My strength lies in consistently driving value for stakeholders and across the organization through through effective storytelling, problem solving and deriving meaningful and actionable insights from data to inform decision making. I am driven by the pursuit of continuous learning, contribution to societal good and actively seek out new challenges to further enhance my expertise.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -75,7 +75,7 @@ Nairobi, Kenya
 2021 - 2024
 
 Relevant units: Advanced machine learning concepts, Advanced statistical 
-analysis, Data visualization and communication
+analysis, Data visualization and communication, Database management
 
 ### ETH Zurich
 
@@ -93,6 +93,19 @@ Nairobi, Kenya
 
 2014 - 2018
 
+Certifications {data-icon=certificate data-concise=true}
+--------------------------------------------------------------------------------
+
+### IBM
+
+Data Engineering & Data science 
+
+Remote
+
+2024
+
+Relevant units: Data Managemant, ETL, Apache, Databases, Data Warehousing,
+Distributed computing systems, SQL. Generative AI
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -105,10 +118,10 @@ Nairobi, Kenya
 
 November, 2022 - Date
 
-- Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, contributing to the establishment of a youth unemployment clock.
-- Utilized satellite data such as night lights and land cover data to map aggregate spending for Spain at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), demonstrating proficiency in geospatial analysis 
-- Applied advanced machine learning algorithms such as Random Forest and linear regression models at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level.
-- Designed and led hackathons to impart knowledge to students in collaboration with top universities in Kenya
+- Led the comprehensive collection, analysis, and forecasting of youth labor force survey data in collaboration with the Mastercard Foundation. Executed the project for Kenya, Rwanda, and Ghana, leading to the establishment of a youth unemployment clock providing real-time insights on jobs.
+- Utilized satellite data such as night lights and land cover data to map aggregate spending for European countries at the grid (100m*100m) and hexagon level (Uber H3 - Res 9), to inform spending patterns for one of our clients who was looking to expand their retail chain
+- Applied and deployed advanced machine learning algorithms such as Random Forest and linear regression models at the lowest census unit for European countries, leveraging geospatial covariates to effectively disaggregate spending at the grid level. 
+- Designed and led hackathons to impart knowledge to students in collaboration with 3 top universities in Kenya
 - Conducting rigorous data quality assurance checks, ensuring the continuous enhancement of models with the latest and highest-quality data.
 - Demonstrated expertise in the in-depth analysis of household and census survey data.
 - Produced data-driven, high-quality insights for clients, emphasizing a commitment to delivering impactful and actionable information.
