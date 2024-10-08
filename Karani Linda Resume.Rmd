@@ -47,7 +47,7 @@ Languages {#languages}
 
 English : Native
 
-French : Intermediate
+French : Limited working proficiency
 
 
 
@@ -106,6 +106,15 @@ Remote
 
 Relevant units: Data Managemant, ETL, Apache, Databases, Data Warehousing,
 Distributed computing systems, SQL. Generative AI
+
+### Esri
+
+Spatial data science
+
+Remote
+
+2024
+
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
